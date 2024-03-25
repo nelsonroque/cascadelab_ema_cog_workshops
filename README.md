@@ -1,4 +1,4 @@
-# Digital Health Workshop: From Assessment to Analysis
+# Digital Health: Assessment to Analysis Workshop
 Hosted by the CASCADE Lab
 ## A 3-day Workshop
 
@@ -24,7 +24,7 @@ Hosted by the CASCADE Lab
 
   - ***Location***: In person at Penn State
   - ***Format***: Live
-  - ***Register***: Registration closed.
+  - ***Register***: Registration closes 3/26 at 5pm.
     - Form: https://forms.office.com/r/Cigu2VKhdj
   - ***Materials***: 
     - Data: see [`data`](data) folder of this repository.
