@@ -1,4 +1,5 @@
-# EMA Cognition Research Lifecycle: Hosted by the CASCADE Lab
+# Digital Health Workshop: From Assessment to Analysis
+Hosted by the CASCADE Lab
 ## A 3-day Workshop
 
   - ***Author:*** Nelson Roque, PhD
@@ -24,6 +25,7 @@
   - ***Location***: In person at Penn State
   - ***Format***: Live
   - ***Register***: Registration closed.
+    - Form: https://forms.office.com/r/Cigu2VKhdj
   - ***Materials***: 
     - Data: see [`data`](data) folder of this repository.
     - Slides: see [`slides`](slides) folder of this repository.
