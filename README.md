@@ -53,33 +53,12 @@
 ## Workshop Schedule
 
 TODO: revise this!!! match word doc
-  - ***Day 1 | July 6, 2022***
-    - What is Reproducible Science?
-    - Reproducible & FAIR Data Workflows
-    - Tools Supporting Reproducible Science
-    - Overview of available tools
-      - Skill 1: Using Endnote for Reference Management
-      - Skill 2: Using Git (and Github) for code management and collaboration
-    - Orientation to R, RStudio, RMarkdown
-      - Skill 3: R syntax primer
-    - Data Science: Latest trends
-    - Long-term Learning Recommendations
-  - ***Day 2 | July 8th, 2022***
-    - Data wrangling and visualization of Big Data
-      - Skill 1: Data wrangling the Google Mobility dataset
-    - Reproducible survey research
-      - Qualtrics survey design tips
-      - Skill 2:  Data wrangling Qualtrics data
-    - Working with JSON data
-      - Skill 3: cleaning and visualizing keystroke JSON data
-  - ***Day 3 | July 11th, 2022***
-    - Text mining
-      - Skill 1: word and bigram frequency analysis
-      - Skill 2: generating wordclouds
-      - Skill 3: sentiment analysis
-    - Interacting with APIs and JSON data
-      - Skill 4: querying API for results and data aggregation
-    - Closing Discussion & Q/A
+  - ***Day 1 | March 27, 2024***
+    - Foundations; Primer to EMA, Cognitive Assessment
+  - ***Day 2 | March 28, 2024***
+    - Mobile/Remote Study Design, Planning, Implementation 
+  - ***Day 3 | March 29, 2024***
+    - Data Analysis and Dissemination 
 
 ## Submit your questions
 
