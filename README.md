@@ -1,5 +1,6 @@
-# Digital Health: Assessment to Analysis Workshop
+# Digital Health Methods Workshop: From Assessment to Analysis
 Hosted by the CASCADE Lab
+
 ## A 3-day Workshop
 
   - ***Author:*** Nelson Roque, PhD
@@ -57,6 +58,7 @@ Hosted by the CASCADE Lab
 TODO: revise this!!! match word doc
   - ***Day 1 | March 27, 2024***
     - Foundations; Primer to EMA, Cognitive Assessment
+      - Onboard into Workshop study
   - ***Day 2 | March 28, 2024***
     - Mobile/Remote Study Design, Planning, Implementation 
   - ***Day 3 | March 29, 2024***
