@@ -66,7 +66,7 @@ TODO: revise this!!! match word doc
 
 ## Submit your questions
 
-Do you have any questions about the workshop or related content? [Submit your questions here](nur375@psu.edu)
+Do you have any questions about the workshop or related content? [Submit your questions here](mailto:nur375@psu.edu)
 
 ## Resources
 
